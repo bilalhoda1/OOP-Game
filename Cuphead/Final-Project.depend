@@ -1,0 +1,2278 @@
+# depslib dependency file v1.0
+1510681530 source:e:\habib\semester 3\oop\project\final-project\ltexture.cpp
+	"LTexture.h"
+
+1510681530 e:\habib\semester 3\oop\project\final-project\ltexture.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<iostream>
+
+1506106370 e:\habib\semester 3\oop\project\sdl ka chakkar\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1506106370 e:\habib\semester 3\oop\project\sdl ka chakkar\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1506106372 e:\habib\semester 3\oop\project\sdl ka chakkar\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1506106372 e:\habib\semester 3\oop\project\sdl ka chakkar\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1506106370 e:\habib\semester 3\oop\project\sdl ka chakkar\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1506106372 e:\habib\semester 3\oop\project\sdl ka chakkar\include\sdl2\begin_code.h
+
+1506106372 e:\habib\semester 3\oop\project\sdl ka chakkar\include\sdl2\close_code.h
+
+1506106370 e:\habib\semester 3\oop\project\sdl ka chakkar\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1506106370 e:\habib\semester 3\oop\project\sdl ka chakkar\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1506106370 e:\habib\semester 3\oop\project\sdl ka chakkar\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1506106370 e:\habib\semester 3\oop\project\sdl ka chakkar\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1506106370 e:\habib\semester 3\oop\project\sdl ka chakkar\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1506106370 e:\habib\semester 3\oop\project\sdl ka chakkar\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1506106372 e:\habib\semester 3\oop\project\sdl ka chakkar\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	"close_code.h"
+
+1506106372 e:\habib\semester 3\oop\project\sdl ka chakkar\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1506106370 e:\habib\semester 3\oop\project\sdl ka chakkar\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1506106370 e:\habib\semester 3\oop\project\sdl ka chakkar\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1506106370 e:\habib\semester 3\oop\project\sdl ka chakkar\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1506106372 e:\habib\semester 3\oop\project\sdl ka chakkar\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1506106370 e:\habib\semester 3\oop\project\sdl ka chakkar\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1506106372 e:\habib\semester 3\oop\project\sdl ka chakkar\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1506106372 e:\habib\semester 3\oop\project\sdl ka chakkar\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1506106370 e:\habib\semester 3\oop\project\sdl ka chakkar\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1506106370 e:\habib\semester 3\oop\project\sdl ka chakkar\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1506106370 e:\habib\semester 3\oop\project\sdl ka chakkar\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1506106372 e:\habib\semester 3\oop\project\sdl ka chakkar\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1506106370 e:\habib\semester 3\oop\project\sdl ka chakkar\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1506106370 e:\habib\semester 3\oop\project\sdl ka chakkar\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1506106370 e:\habib\semester 3\oop\project\sdl ka chakkar\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1506106372 e:\habib\semester 3\oop\project\sdl ka chakkar\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1506106370 e:\habib\semester 3\oop\project\sdl ka chakkar\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1506106372 e:\habib\semester 3\oop\project\sdl ka chakkar\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1506106370 e:\habib\semester 3\oop\project\sdl ka chakkar\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1506106370 e:\habib\semester 3\oop\project\sdl ka chakkar\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1506106370 e:\habib\semester 3\oop\project\sdl ka chakkar\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1506106370 e:\habib\semester 3\oop\project\sdl ka chakkar\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1506106370 e:\habib\semester 3\oop\project\sdl ka chakkar\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1506106370 e:\habib\semester 3\oop\project\sdl ka chakkar\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1506106372 e:\habib\semester 3\oop\project\sdl ka chakkar\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1506106372 e:\habib\semester 3\oop\project\sdl ka chakkar\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1506106372 e:\habib\semester 3\oop\project\sdl ka chakkar\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1506106372 e:\habib\semester 3\oop\project\sdl ka chakkar\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1506106372 e:\habib\semester 3\oop\project\sdl ka chakkar\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1506106372 e:\habib\semester 3\oop\project\sdl ka chakkar\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451800374 e:\habib\semester 3\oop\project\sdl ka chakkar\i686-w64-mingw32\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1511267992 source:e:\habib\semester 3\oop\project\final-project\gameobject.cpp
+	"GameObject.h"
+
+1511267978 e:\habib\semester 3\oop\project\final-project\gameobject.h
+	"SDL.h"
+	"LTexture.h"
+	"Point.h"
+
+1510744909 e:\habib\semester 3\oop\project\final-project\point.h
+
+1511285000 source:e:\habib\semester 3\oop\project\final-project\hero.cpp
+	"Hero.h"
+
+1511284902 e:\habib\semester 3\oop\project\final-project\hero.h
+	"GameObject.h"
+	"Point.h"
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<iostream>
+	"LTexture.h"
+	"GameCharacters.h"
+
+1511336402 source:e:\habib\semester 3\oop\project\final-project\main.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	"LTexture.h"
+	"GameObject.h"
+	"Hero.h"
+	"Platform.h"
+	"Boss.h"
+
+1511267894 e:\habib\semester 3\oop\project\final-project\platform.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<iostream>
+	"LTexture.h"
+	"GameObject.h"
+
+1511267865 source:e:\habib\semester 3\oop\project\final-project\platform.cpp
+	"Platform.h"
+
+1511285021 e:\habib\semester 3\oop\project\final-project\gamecharacters.h
+	"SDL.h"
+	"LTexture.h"
+	"Point.h"
+	"GameObject.h"
+
+1511284989 source:e:\habib\semester 3\oop\project\final-project\gamecharacters.cpp
+	"GameCharacters.h"
+
+1511336459 source:e:\habib\semester 3\oop\project\final-project\boss.cpp
+	"Boss.h"
+	<cstdlib>
+
+1511291622 e:\habib\semester 3\oop\project\final-project\boss.h
+	"GameObject.h"
+	"Point.h"
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<iostream>
+	"LTexture.h"
+	"GameCharacters.h"
+	<cstdlib>
+
+1511335622 source:e:\habib\semester 3\oop\project\final-project\list.cpp
+
+1511336459 source:e:\final-project\boss.cpp
+	"Boss.h"
+	<cstdlib>
+
+1511291622 e:\final-project\boss.h
+	"GameObject.h"
+	"Point.h"
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<iostream>
+	"LTexture.h"
+	"GameCharacters.h"
+	<cstdlib>
+
+1511267978 e:\final-project\gameobject.h
+	"SDL.h"
+	"LTexture.h"
+	"Point.h"
+
+1511338804 e:\final-project\ltexture.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<iostream>
+
+1510744909 e:\final-project\point.h
+
+1511285021 e:\final-project\gamecharacters.h
+	"SDL.h"
+	"LTexture.h"
+	"Point.h"
+	"GameObject.h"
+
+1511284989 source:e:\final-project\gamecharacters.cpp
+	"GameCharacters.h"
+
+1511267992 source:e:\final-project\gameobject.cpp
+	"GameObject.h"
+
+1511285000 source:e:\final-project\hero.cpp
+	"Hero.h"
+
+1511284902 e:\final-project\hero.h
+	"GameObject.h"
+	"Point.h"
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<iostream>
+	"LTexture.h"
+	"GameCharacters.h"
+
+1511335622 source:e:\final-project\list.cpp
+
+1511338804 source:e:\final-project\ltexture.cpp
+	"LTexture.h"
+
+1511336624 source:e:\final-project\main.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	"LTexture.h"
+	"GameObject.h"
+	"Hero.h"
+	"Platform.h"
+	"Boss.h"
+
+1511267894 e:\final-project\platform.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<iostream>
+	"LTexture.h"
+	"GameObject.h"
+
+1511267865 source:e:\final-project\platform.cpp
+	"Platform.h"
+
+1511904376 source:e:\bilal's books3\oop\game\abeera\final-project\boss.cpp
+	"Boss.h"
+	<cstdlib>
+
+1511903743 e:\bilal's books3\oop\game\abeera\final-project\boss.h
+	"GameObject.h"
+	"Point.h"
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<iostream>
+	"LTexture.h"
+	"GameCharacters.h"
+	<cstdlib>
+
+1511944094 e:\bilal's books3\oop\game\abeera\final-project\gameobject.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<iostream>
+	"LTexture.h"
+	"Point.h"
+
+1511338804 e:\bilal's books3\oop\game\abeera\final-project\ltexture.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<iostream>
+
+1510744909 e:\bilal's books3\oop\game\abeera\final-project\point.h
+
+1511943299 e:\bilal's books3\oop\game\abeera\final-project\gamecharacters.h
+	"SDL.h"
+	"LTexture.h"
+	"Point.h"
+	"GameObject.h"
+
+1511642803 source:e:\bilal's books3\oop\game\abeera\final-project\gamecharacters.cpp
+	"GameCharacters.h"
+
+1511944094 source:e:\bilal's books3\oop\game\abeera\final-project\gameobject.cpp
+	"GameObject.h"
+
+1511904292 source:e:\bilal's books3\oop\game\abeera\final-project\hero.cpp
+	"Hero.h"
+
+1511903743 e:\bilal's books3\oop\game\abeera\final-project\hero.h
+	"GameObject.h"
+	"Point.h"
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<iostream>
+	"LTexture.h"
+	"GameCharacters.h"
+
+1511335622 source:e:\bilal's books3\oop\game\abeera\final-project\list.cpp
+
+1511338804 source:e:\bilal's books3\oop\game\abeera\final-project\ltexture.cpp
+	"LTexture.h"
+
+1511956892 source:e:\bilal's books3\oop\game\abeera\final-project\main.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	"LTexture.h"
+	"GameObject.h"
+	"Hero.h"
+	"Platform.h"
+	"Boss.h"
+	<SDL_mixer.h>
+	"Queue.h"
+	"Bullet.h"
+	<SDL_ttf.h>
+
+1511688442 e:\bilal's books3\oop\game\abeera\final-project\platform.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<iostream>
+	"LTexture.h"
+	"GameObject.h"
+
+1511642803 source:e:\bilal's books3\oop\game\abeera\final-project\platform.cpp
+	"Platform.h"
+
+1508786982 e:\bilal's books3\oop\game\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 e:\bilal's books3\oop\game\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 e:\bilal's books3\oop\game\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1508786982 e:\bilal's books3\oop\game\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1508786982 e:\bilal's books3\oop\game\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 e:\bilal's books3\oop\game\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\begin_code.h
+
+1508786982 e:\bilal's books3\oop\game\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\close_code.h
+
+1508786982 e:\bilal's books3\oop\game\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1508786982 e:\bilal's books3\oop\game\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1508786982 e:\bilal's books3\oop\game\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 e:\bilal's books3\oop\game\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 e:\bilal's books3\oop\game\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 e:\bilal's books3\oop\game\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 e:\bilal's books3\oop\game\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"close_code.h"
+
+1508786982 e:\bilal's books3\oop\game\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 e:\bilal's books3\oop\game\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 e:\bilal's books3\oop\game\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 e:\bilal's books3\oop\game\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 e:\bilal's books3\oop\game\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 e:\bilal's books3\oop\game\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 e:\bilal's books3\oop\game\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 e:\bilal's books3\oop\game\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 e:\bilal's books3\oop\game\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 e:\bilal's books3\oop\game\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 e:\bilal's books3\oop\game\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1508786982 e:\bilal's books3\oop\game\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1508786982 e:\bilal's books3\oop\game\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 e:\bilal's books3\oop\game\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 e:\bilal's books3\oop\game\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 e:\bilal's books3\oop\game\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1508786982 e:\bilal's books3\oop\game\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 e:\bilal's books3\oop\game\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 e:\bilal's books3\oop\game\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 e:\bilal's books3\oop\game\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 e:\bilal's books3\oop\game\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 e:\bilal's books3\oop\game\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 e:\bilal's books3\oop\game\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 e:\bilal's books3\oop\game\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 e:\bilal's books3\oop\game\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 e:\bilal's books3\oop\game\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 e:\bilal's books3\oop\game\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 e:\bilal's books3\oop\game\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 e:\bilal's books3\oop\game\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 e:\bilal's books3\oop\game\sdl2-2.0.7\i686-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451800373 e:\bilal's books3\oop\game\sdl2_image-2.0.1\i686-w64-mingw32\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508772768 e:\bilal's books3\oop\game\sdl2_mixer-2.0.2\i686-w64-mingw32\include\sdl2\sdl_mixer.h
+	"SDL_stdinc.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1511943715 source:e:\bilal's books3\oop\game\abeera\final-project\bullet.cpp
+	"Bullet.h"
+
+1511943300 e:\bilal's books3\oop\game\abeera\final-project\bullet.h
+	"GameObject.h"
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<iostream>
+
+1511955074 e:\bilal's books3\oop\game\abeera\final-project\queue.h
+	"Node.h"
+	<SDL.h>
+
+1511390770 e:\bilal's books3\oop\game\abeera\final-project\node.h
+	"GameObject.h"
+
+1511955012 source:e:\bilal's books3\oop\game\abeera\final-project\queue.cpp
+	"Queue.h"
+	<iostream>
+
+1454362934 e:\bilal's books3\oop\game\sdl2_ttf-2.0.14\i686-w64-mingw32\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1512054636 source:e:\bilal's books3\oop\game\ab\final-project\boss.cpp
+	"Boss.h"
+	<cstdlib>
+
+1511996400 e:\bilal's books3\oop\game\ab\final-project\boss.h
+	"GameObject.h"
+	"Point.h"
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<iostream>
+	"LTexture.h"
+	"GameCharacters.h"
+	<cstdlib>
+
+1512121494 e:\bilal's books3\oop\game\ab\final-project\gameobject.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<iostream>
+	"LTexture.h"
+	"Point.h"
+
+1511338804 e:\bilal's books3\oop\game\ab\final-project\ltexture.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<iostream>
+
+1510744909 e:\bilal's books3\oop\game\ab\final-project\point.h
+
+1512121494 e:\bilal's books3\oop\game\ab\final-project\gamecharacters.h
+	"SDL.h"
+	"LTexture.h"
+	"Point.h"
+	"GameObject.h"
+
+1512026606 source:e:\bilal's books3\oop\game\ab\final-project\bullet.cpp
+	"Bullet.h"
+
+1512028888 e:\bilal's books3\oop\game\ab\final-project\bullet.h
+	"GameObject.h"
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<iostream>
+
+1511642803 source:e:\bilal's books3\oop\game\ab\final-project\gamecharacters.cpp
+	"GameCharacters.h"
+
+1511996400 source:e:\bilal's books3\oop\game\ab\final-project\gameobject.cpp
+	"GameObject.h"
+
+1512124106 source:e:\bilal's books3\oop\game\ab\final-project\hero.cpp
+	"Hero.h"
+
+1511996400 e:\bilal's books3\oop\game\ab\final-project\hero.h
+	"GameObject.h"
+	"Point.h"
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<iostream>
+	"LTexture.h"
+	"GameCharacters.h"
+
+1511335622 source:e:\bilal's books3\oop\game\ab\final-project\list.cpp
+
+1511338804 source:e:\bilal's books3\oop\game\ab\final-project\ltexture.cpp
+	"LTexture.h"
+
+1512124106 source:e:\bilal's books3\oop\game\ab\final-project\main.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	"LTexture.h"
+	"GameObject.h"
+	"Hero.h"
+	"Platform.h"
+	"Boss.h"
+	"Bullet.h"
+	"level.h"
+	"Minion.h"
+	"Splashscreen.h"
+	"Gamescreen.h"
+	"button.h"
+	<SDL_mixer.h>
+	"Character.h"
+	<SDL_ttf.h>
+	"Vector2.h"
+
+1512124131 e:\bilal's books3\oop\game\ab\final-project\platform.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<iostream>
+	"LTexture.h"
+	"GameObject.h"
+
+1511955074 e:\bilal's books3\oop\game\ab\final-project\queue.h
+	"Node.h"
+	<SDL.h>
+
+1511390770 e:\bilal's books3\oop\game\ab\final-project\node.h
+	"GameObject.h"
+
+1512124106 source:e:\bilal's books3\oop\game\ab\final-project\platform.cpp
+	"Platform.h"
+
+1511955012 source:e:\bilal's books3\oop\game\ab\final-project\queue.cpp
+	"Queue.h"
+	<iostream>
+
+1511995831 source:e:\bilal's books3\oop\game\ab\final-project\vector2.cpp
+	"Vector2.h"
+
+1511995831 e:\bilal's books3\oop\game\ab\final-project\vector2.h
+	"LTexture.h"
+	<SDL.h>
+	<vector>
+	<iostream>
+	"GameObject.h"
+
+1512123291 e:\bilal's books3\oop\game\ab\final-project\level.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	"Queue.h"
+	"GameObject.h"
+	"Hero.h"
+	"Platform.h"
+	"Boss.h"
+	"LTexture.h"
+	"Bullet.h"
+	"Minion.h"
+	"Vector2.h"
+
+1511932889 e:\bilal's books3\oop\game\ab\final-project\minion.h
+	"GameObject.h"
+	"Point.h"
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<iostream>
+	"LTexture.h"
+	"GameCharacters.h"
+
+1512033906 e:\bilal's books3\oop\game\ab\final-project\splashscreen.h
+	<SDL.h>
+	"LTexture.h"
+	<iostream>
+
+1512033900 e:\bilal's books3\oop\game\ab\final-project\gamescreen.h
+	<SDL.h>
+	<iostream>
+	"LTexture.h"
+
+1512033796 e:\bilal's books3\oop\game\ab\final-project\button.h
+	<SDL.h>
+	<SDL_image.h>
+	"Ltexture.h"
+	"Word.h"
+
+1511967642 e:\bilal's books3\oop\game\ab\final-project\word.h
+	<string.h>
+	<stdio.h>
+	<iostream>
+	"Character.h"
+
+1511967016 e:\bilal's books3\oop\game\ab\final-project\character.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<iostream>
+	"LTexture.h"
+	"Point.h"
+
+1512114321 source:e:\bilal's books3\oop\game\ab\final-project\splashscreen.cpp
+	"Splashscreen.h"
+
+1512123292 source:e:\bilal's books3\oop\game\ab\final-project\level.cpp
+	"level.h"
+
+1512155448 source:e:\bilal's books3\oop\game\ab\final-project - copy\boss.cpp
+	"Boss.h"
+	<cstdlib>
+
+1512154436 e:\bilal's books3\oop\game\ab\final-project - copy\boss.h
+	"GameObject.h"
+	"Point.h"
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<iostream>
+	"LTexture.h"
+	"GameCharacters.h"
+	<cstdlib>
+
+1512155136 e:\bilal's books3\oop\game\ab\final-project - copy\gameobject.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<iostream>
+	"LTexture.h"
+	"Point.h"
+
+1511338806 e:\bilal's books3\oop\game\ab\final-project - copy\ltexture.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<iostream>
+
+1507880984 e:\bilal's books3\oop\game\ab\final-project - copy\point.h
+
+1512121496 e:\bilal's books3\oop\game\ab\final-project - copy\gamecharacters.h
+	"SDL.h"
+	"LTexture.h"
+	"Point.h"
+	"GameObject.h"
+
+1512146706 source:e:\bilal's books3\oop\game\ab\final-project - copy\bullet.cpp
+	"Bullet.h"
+
+1512028890 e:\bilal's books3\oop\game\ab\final-project - copy\bullet.h
+	"GameObject.h"
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<iostream>
+
+1511642804 source:e:\bilal's books3\oop\game\ab\final-project - copy\gamecharacters.cpp
+	"GameCharacters.h"
+
+1512155322 source:e:\bilal's books3\oop\game\ab\final-project - copy\gameobject.cpp
+	"GameObject.h"
+
+1512221557 source:e:\bilal's books3\oop\game\ab\final-project - copy\hero.cpp
+	"Hero.h"
+
+1512208691 e:\bilal's books3\oop\game\ab\final-project - copy\hero.h
+	"GameObject.h"
+	"Point.h"
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<iostream>
+	"LTexture.h"
+	"GameCharacters.h"
+
+1511335624 source:e:\bilal's books3\oop\game\ab\final-project - copy\list.cpp
+
+1511338806 source:e:\bilal's books3\oop\game\ab\final-project - copy\ltexture.cpp
+	"LTexture.h"
+
+1512221474 source:e:\bilal's books3\oop\game\ab\final-project - copy\main.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	"LTexture.h"
+	"GameObject.h"
+	"Hero.h"
+	"Platform.h"
+	"Boss.h"
+	"Bullet.h"
+	"level.h"
+	"Minion.h"
+	"Splashscreen.h"
+	"Gamescreen.h"
+	"button.h"
+	<SDL_mixer.h>
+	"Character.h"
+	<SDL_ttf.h>
+	"Vector2.h"
+	<typeinfo>
+
+1512143026 e:\bilal's books3\oop\game\ab\final-project - copy\platform.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<iostream>
+	"LTexture.h"
+	"GameObject.h"
+
+1512210763 e:\bilal's books3\oop\game\ab\final-project - copy\level.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	"Queue.h"
+	"GameObject.h"
+	"Hero.h"
+	"Platform.h"
+	"Boss.h"
+	"LTexture.h"
+	"Bullet.h"
+	"Minion.h"
+	"Vector2.h"
+
+1511955076 e:\bilal's books3\oop\game\ab\final-project - copy\queue.h
+	"Node.h"
+	<SDL.h>
+
+1511390772 e:\bilal's books3\oop\game\ab\final-project - copy\node.h
+	"GameObject.h"
+
+1511932890 e:\bilal's books3\oop\game\ab\final-project - copy\minion.h
+	"GameObject.h"
+	"Point.h"
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<iostream>
+	"LTexture.h"
+	"GameCharacters.h"
+
+1512141784 e:\bilal's books3\oop\game\ab\final-project - copy\vector2.h
+	"LTexture.h"
+	<SDL.h>
+	<vector>
+	<iostream>
+	"GameObject.h"
+
+1512112624 e:\bilal's books3\oop\game\ab\final-project - copy\splashscreen.h
+	<SDL.h>
+	"LTexture.h"
+	<iostream>
+
+1512157486 e:\bilal's books3\oop\game\ab\final-project - copy\gamescreen.h
+	<SDL.h>
+	<iostream>
+	"LTexture.h"
+	"button.h"
+
+1512066634 e:\bilal's books3\oop\game\ab\final-project - copy\button.h
+	<SDL.h>
+	<SDL_image.h>
+	"Ltexture.h"
+	"Word.h"
+	<iostream>
+
+1511967642 e:\bilal's books3\oop\game\ab\final-project - copy\word.h
+	<string.h>
+	<stdio.h>
+	<iostream>
+	"Character.h"
+
+1512122542 e:\bilal's books3\oop\game\ab\final-project - copy\character.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<iostream>
+	"LTexture.h"
+	"Point.h"
+
+1512209666 source:e:\bilal's books3\oop\game\ab\final-project - copy\platform.cpp
+	"Platform.h"
+
+1511983330 source:e:\bilal's books3\oop\game\ab\final-project - copy\splashscreen.cpp
+	"Splashscreen.h"
+
+1512141912 source:e:\bilal's books3\oop\game\ab\final-project - copy\vector2.cpp
+	"Vector2.h"
+
+1512210763 source:e:\bilal's books3\oop\game\ab\final-project - copy\level.cpp
+	"level.h"
+
+1512119458 e:\bilal's books3\oop\game\ab\final-project - copy\mainmenu.h
+	<SDL.h>
+	"LTexture.h"
+	<iostream>
+	"button.h"
+
+1512140044 e:\bilal's books3\oop\game\ab\final-project - copy\pausemenu.h
+	<SDL.h>
+	"LTexture.h"
+	<iostream>
+	"button.h"
+
+1512159170 source:e:\bilal's books3\oop\game\ab\final-project - copy\gamescreen.cpp
+	"Gamescreen.h"
+
+1512122680 source:e:\bilal's books3\oop\game\ab\final-project - copy\mainmenu.cpp
+	"mainmenu.h"
+
+1512140804 source:e:\bilal's books3\oop\game\ab\final-project - copy\pausemenu.cpp
+	"Pausemenu.h"
+
+1512122616 source:e:\bilal's books3\oop\game\ab\final-project - copy\word.cpp
+	"Word.h"
+
+1512128846 source:e:\bilal's books3\oop\game\ab\final-project - copy\button.cpp
+	"button.h"
+
+1512122542 source:e:\bilal's books3\oop\game\ab\final-project - copy\character.cpp
+	"Character.h"
+	<iostream>
+
+1512128846 source:e:\habib\semester 3\oop\project\final-project - copy\button.cpp
+	"button.h"
+
+1512066634 e:\habib\semester 3\oop\project\final-project - copy\button.h
+	<SDL.h>
+	<SDL_image.h>
+	"Ltexture.h"
+	"Word.h"
+	<iostream>
+
+1511338806 e:\habib\semester 3\oop\project\final-project - copy\ltexture.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<iostream>
+
+1511967642 e:\habib\semester 3\oop\project\final-project - copy\word.h
+	<string.h>
+	<stdio.h>
+	<iostream>
+	"Character.h"
+
+1512122542 e:\habib\semester 3\oop\project\final-project - copy\character.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<iostream>
+	"LTexture.h"
+	"Point.h"
+
+1507880984 e:\habib\semester 3\oop\project\final-project - copy\point.h
+
+1512122542 source:e:\habib\semester 3\oop\project\final-project - copy\character.cpp
+	"Character.h"
+	<iostream>
+
+1512159170 source:e:\habib\semester 3\oop\project\final-project - copy\gamescreen.cpp
+	"Gamescreen.h"
+
+1512157486 e:\habib\semester 3\oop\project\final-project - copy\gamescreen.h
+	<SDL.h>
+	<iostream>
+	"LTexture.h"
+	"button.h"
+
+1511338806 source:e:\habib\semester 3\oop\project\final-project - copy\ltexture.cpp
+	"LTexture.h"
+
+1512244898 source:e:\habib\semester 3\oop\project\final-project - copy\main.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	"LTexture.h"
+	"GameObject.h"
+	"Hero.h"
+	"Platform.h"
+	"Boss.h"
+	"Bullet.h"
+	"level.h"
+	"Minion.h"
+	"Splashscreen.h"
+	"Gamescreen.h"
+	"button.h"
+	"Character.h"
+	"Vector2.h"
+
+1512239773 e:\habib\semester 3\oop\project\final-project - copy\gameobject.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<iostream>
+	"LTexture.h"
+	"Point.h"
+
+1512238418 e:\habib\semester 3\oop\project\final-project - copy\hero.h
+	"GameObject.h"
+	"Point.h"
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<iostream>
+	"LTexture.h"
+	"GameCharacters.h"
+
+1512239833 e:\habib\semester 3\oop\project\final-project - copy\gamecharacters.h
+	"SDL.h"
+	"LTexture.h"
+	"Point.h"
+	"GameObject.h"
+
+1512237821 e:\habib\semester 3\oop\project\final-project - copy\platform.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<iostream>
+	"LTexture.h"
+	"GameObject.h"
+
+1512239741 e:\habib\semester 3\oop\project\final-project - copy\boss.h
+	"GameObject.h"
+	"Point.h"
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<iostream>
+	"LTexture.h"
+	"GameCharacters.h"
+	<cstdlib>
+
+1512241550 e:\habib\semester 3\oop\project\final-project - copy\bullet.h
+	"GameObject.h"
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<iostream>
+
+1512240480 e:\habib\semester 3\oop\project\final-project - copy\level.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	"GameObject.h"
+	"Hero.h"
+	"Platform.h"
+	"Boss.h"
+	"LTexture.h"
+	"Bullet.h"
+	"Minion.h"
+	"Vector2.h"
+
+1511932890 e:\habib\semester 3\oop\project\final-project - copy\minion.h
+	"GameObject.h"
+	"Point.h"
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<iostream>
+	"LTexture.h"
+	"GameCharacters.h"
+
+1512141784 e:\habib\semester 3\oop\project\final-project - copy\vector2.h
+	"LTexture.h"
+	<SDL.h>
+	<vector>
+	<iostream>
+	"GameObject.h"
+
+1512112624 e:\habib\semester 3\oop\project\final-project - copy\splashscreen.h
+	<SDL.h>
+	"LTexture.h"
+	<iostream>
+
+1512122680 source:e:\habib\semester 3\oop\project\final-project - copy\mainmenu.cpp
+	"mainmenu.h"
+
+1512119458 e:\habib\semester 3\oop\project\final-project - copy\mainmenu.h
+	<SDL.h>
+	"LTexture.h"
+	<iostream>
+	"button.h"
+
+1512140804 source:e:\habib\semester 3\oop\project\final-project - copy\pausemenu.cpp
+	"Pausemenu.h"
+
+1512140044 e:\habib\semester 3\oop\project\final-project - copy\pausemenu.h
+	<SDL.h>
+	"LTexture.h"
+	<iostream>
+	"button.h"
+
+1511983330 source:e:\habib\semester 3\oop\project\final-project - copy\splashscreen.cpp
+	"Splashscreen.h"
+
+1512241116 source:e:\habib\semester 3\oop\project\final-project - copy\vector2.cpp
+	"Vector2.h"
+
+1512122616 source:e:\habib\semester 3\oop\project\final-project - copy\word.cpp
+	"Word.h"
+
+1512239848 source:e:\habib\semester 3\oop\project\final-project - copy\boss.cpp
+	"Boss.h"
+	<cstdlib>
+
+1512242985 source:e:\habib\semester 3\oop\project\final-project - copy\bullet.cpp
+	"Bullet.h"
+
+1512236265 source:e:\habib\semester 3\oop\project\final-project - copy\gamecharacters.cpp
+	"GameCharacters.h"
+
+1512236124 source:e:\habib\semester 3\oop\project\final-project - copy\gameobject.cpp
+	"GameObject.h"
+
+1512240441 source:e:\habib\semester 3\oop\project\final-project - copy\hero.cpp
+	"Hero.h"
+
+1512240554 source:e:\habib\semester 3\oop\project\final-project - copy\level.cpp
+	"level.h"
+
+1512237017 source:e:\habib\semester 3\oop\project\final-project - copy\platform.cpp
+	"Platform.h"
+
+1512325389 source:e:\bilal's books3\new folder\boss.cpp
+	"Boss.h"
+	<cstdlib>
+
+1512289755 e:\bilal's books3\new folder\boss.h
+	"GameObject.h"
+	"Point.h"
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<iostream>
+	"LTexture.h"
+	"GameCharacters.h"
+	<cstdlib>
+	"Bullet.h"
+	"Vector2.h"
+
+1512299477 e:\bilal's books3\new folder\gameobject.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<iostream>
+	"LTexture.h"
+	"Point.h"
+
+1512229256 e:\bilal's books3\new folder\ltexture.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<iostream>
+
+1512229252 e:\bilal's books3\new folder\point.h
+
+1512299861 e:\bilal's books3\new folder\gamecharacters.h
+	"SDL.h"
+	"LTexture.h"
+	"Point.h"
+	"GameObject.h"
+
+1512307963 source:e:\bilal's books3\new folder\bullet.cpp
+	"Bullet.h"
+
+1512300097 e:\bilal's books3\new folder\bullet.h
+	"GameObject.h"
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<iostream>
+
+1512229312 source:e:\bilal's books3\new folder\button.cpp
+	"button.h"
+
+1512229312 e:\bilal's books3\new folder\button.h
+	<SDL.h>
+	<SDL_image.h>
+	"Ltexture.h"
+	"Word.h"
+	<iostream>
+
+1512229250 e:\bilal's books3\new folder\word.h
+	<string.h>
+	<stdio.h>
+	<iostream>
+	"Character.h"
+
+1512229308 e:\bilal's books3\new folder\character.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<iostream>
+	"LTexture.h"
+	"Point.h"
+
+1512229312 source:e:\bilal's books3\new folder\character.cpp
+	"Character.h"
+	<iostream>
+
+1512293105 source:e:\bilal's books3\new folder\gamecharacters.cpp
+	"GameCharacters.h"
+
+1512296329 source:e:\bilal's books3\new folder\gameobject.cpp
+	"GameObject.h"
+
+1512229304 source:e:\bilal's books3\new folder\gamescreen.cpp
+	"Gamescreen.h"
+
+1512229304 e:\bilal's books3\new folder\gamescreen.h
+	<SDL.h>
+	<iostream>
+	"LTexture.h"
+	"button.h"
+
+1512316469 source:e:\bilal's books3\new folder\hero.cpp
+	"Hero.h"
+
+1512302874 e:\bilal's books3\new folder\hero.h
+	"GameObject.h"
+	"Point.h"
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<iostream>
+	"LTexture.h"
+	"GameCharacters.h"
+
+1512323387 source:e:\bilal's books3\new folder\level.cpp
+	"level.h"
+
+1512320931 e:\bilal's books3\new folder\level.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	"GameObject.h"
+	"Hero.h"
+	"Platform.h"
+	"Boss.h"
+	"LTexture.h"
+	"Bullet.h"
+	"Minion.h"
+	"Vector2.h"
+
+1512320503 e:\bilal's books3\new folder\platform.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<iostream>
+	"LTexture.h"
+	"GameObject.h"
+
+1512314008 e:\bilal's books3\new folder\minion.h
+	"GameObject.h"
+	"Point.h"
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<iostream>
+	"LTexture.h"
+	"GameCharacters.h"
+
+1512300097 e:\bilal's books3\new folder\vector2.h
+	"LTexture.h"
+	<SDL.h>
+	<vector>
+	<iostream>
+	"GameObject.h"
+
+1512229256 source:e:\bilal's books3\new folder\ltexture.cpp
+	"LTexture.h"
+
+1512358580 source:e:\bilal's books3\new folder\main.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<string>
+	<iomanip>
+	"LTexture.h"
+	"GameObject.h"
+	"Hero.h"
+	"Platform.h"
+	"Boss.h"
+	"Bullet.h"
+	"level.h"
+	"Minion.h"
+	"Splashscreen.h"
+	"Gamescreen.h"
+	"button.h"
+	<SDL_mixer.h>
+	"Character.h"
+	"Vector2.h"
+	"Splashscreen.h"
+	"Gamescreen.h"
+	"mainmenu.h"
+	"levelScreen.h"
+	"Pausemenu.h"
+	<fstream>
+
+1512229252 e:\bilal's books3\new folder\splashscreen.h
+	<SDL.h>
+	"LTexture.h"
+	<iostream>
+
+1512229256 source:e:\bilal's books3\new folder\mainmenu.cpp
+	"mainmenu.h"
+
+1512229256 e:\bilal's books3\new folder\mainmenu.h
+	<SDL.h>
+	"LTexture.h"
+	<iostream>
+	"button.h"
+
+1512229258 source:e:\bilal's books3\new folder\pausemenu.cpp
+	"Pausemenu.h"
+
+1512229254 e:\bilal's books3\new folder\pausemenu.h
+	<SDL.h>
+	"LTexture.h"
+	<iostream>
+	"button.h"
+
+1512320503 source:e:\bilal's books3\new folder\platform.cpp
+	"Platform.h"
+
+1512229250 source:e:\bilal's books3\new folder\splashscreen.cpp
+	"Splashscreen.h"
+
+1512325937 source:e:\bilal's books3\new folder\vector2.cpp
+	"Vector2.h"
+
+1512229252 source:e:\bilal's books3\new folder\word.cpp
+	"Word.h"
+
+1512317891 source:e:\bilal's books3\new folder\minion.cpp
+	"Minion.h"
+	<cstdlib>
+	<iostream>
+	<conio.h>
+	<windows.h>
+
+1512324569 source:e:\bilal's books3\new folder\m2.c
+
+1512229300 source:e:\bilal's books3\new folder\levelscreen.cpp
+	"levelScreen.h"
+
+1512229300 e:\bilal's books3\new folder\levelscreen.h
+	<SDL.h>
+	"Word.h"
+	<iostream>
+
+1512325389 source:e:\bilal's books3\oop\game\cuphead\boss.cpp
+	"Boss.h"
+	<cstdlib>
+
+1512289755 e:\bilal's books3\oop\game\cuphead\boss.h
+	"GameObject.h"
+	"Point.h"
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<iostream>
+	"LTexture.h"
+	"GameCharacters.h"
+	<cstdlib>
+	"Bullet.h"
+	"Vector2.h"
+
+1512299477 e:\bilal's books3\oop\game\cuphead\gameobject.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<iostream>
+	"LTexture.h"
+	"Point.h"
+
+1512229256 e:\bilal's books3\oop\game\cuphead\ltexture.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<iostream>
+
+1512229252 e:\bilal's books3\oop\game\cuphead\point.h
+
+1512299861 e:\bilal's books3\oop\game\cuphead\gamecharacters.h
+	"SDL.h"
+	"LTexture.h"
+	"Point.h"
+	"GameObject.h"
+
+1512300097 e:\bilal's books3\oop\game\cuphead\bullet.h
+	"GameObject.h"
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<iostream>
+
+1512300097 e:\bilal's books3\oop\game\cuphead\vector2.h
+	"LTexture.h"
+	<SDL.h>
+	<vector>
+	<iostream>
+	"GameObject.h"
+
+1512307963 source:e:\bilal's books3\oop\game\cuphead\bullet.cpp
+	"Bullet.h"
+
+1512229312 source:e:\bilal's books3\oop\game\cuphead\button.cpp
+	"button.h"
+
+1512229312 e:\bilal's books3\oop\game\cuphead\button.h
+	<SDL.h>
+	<SDL_image.h>
+	"Ltexture.h"
+	"Word.h"
+	<iostream>
+
+1512229250 e:\bilal's books3\oop\game\cuphead\word.h
+	<string.h>
+	<stdio.h>
+	<iostream>
+	"Character.h"
+
+1512229308 e:\bilal's books3\oop\game\cuphead\character.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<iostream>
+	"LTexture.h"
+	"Point.h"
+
+1512229312 source:e:\bilal's books3\oop\game\cuphead\character.cpp
+	"Character.h"
+	<iostream>
+
+1512293105 source:e:\bilal's books3\oop\game\cuphead\gamecharacters.cpp
+	"GameCharacters.h"
+
+1512296329 source:e:\bilal's books3\oop\game\cuphead\gameobject.cpp
+	"GameObject.h"
+
+1512229304 source:e:\bilal's books3\oop\game\cuphead\gamescreen.cpp
+	"Gamescreen.h"
+
+1512229304 e:\bilal's books3\oop\game\cuphead\gamescreen.h
+	<SDL.h>
+	<iostream>
+	"LTexture.h"
+	"button.h"
+
+1512316469 source:e:\bilal's books3\oop\game\cuphead\hero.cpp
+	"Hero.h"
+
+1512302874 e:\bilal's books3\oop\game\cuphead\hero.h
+	"GameObject.h"
+	"Point.h"
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<iostream>
+	"LTexture.h"
+	"GameCharacters.h"
+
+1512323387 source:e:\bilal's books3\oop\game\cuphead\level.cpp
+	"level.h"
+
+1512320931 e:\bilal's books3\oop\game\cuphead\level.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	"GameObject.h"
+	"Hero.h"
+	"Platform.h"
+	"Boss.h"
+	"LTexture.h"
+	"Bullet.h"
+	"Minion.h"
+	"Vector2.h"
+
+1512320503 e:\bilal's books3\oop\game\cuphead\platform.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<iostream>
+	"LTexture.h"
+	"GameObject.h"
+
+1512314008 e:\bilal's books3\oop\game\cuphead\minion.h
+	"GameObject.h"
+	"Point.h"
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<iostream>
+	"LTexture.h"
+	"GameCharacters.h"
+
+1512229300 source:e:\bilal's books3\oop\game\cuphead\levelscreen.cpp
+	"levelScreen.h"
+
+1512229300 e:\bilal's books3\oop\game\cuphead\levelscreen.h
+	<SDL.h>
+	"Word.h"
+	<iostream>
+
+1512229256 source:e:\bilal's books3\oop\game\cuphead\ltexture.cpp
+	"LTexture.h"
+
+1512358580 source:e:\bilal's books3\oop\game\cuphead\main.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<string>
+	<iomanip>
+	"LTexture.h"
+	"GameObject.h"
+	"Hero.h"
+	"Platform.h"
+	"Boss.h"
+	"Bullet.h"
+	"level.h"
+	"Minion.h"
+	"Splashscreen.h"
+	"Gamescreen.h"
+	"button.h"
+	<SDL_mixer.h>
+	"Character.h"
+	"Vector2.h"
+	"Splashscreen.h"
+	"Gamescreen.h"
+	"mainmenu.h"
+	"levelScreen.h"
+	"Pausemenu.h"
+	<fstream>
+
+1512229252 e:\bilal's books3\oop\game\cuphead\splashscreen.h
+	<SDL.h>
+	"LTexture.h"
+	<iostream>
+
+1512229256 e:\bilal's books3\oop\game\cuphead\mainmenu.h
+	<SDL.h>
+	"LTexture.h"
+	<iostream>
+	"button.h"
+
+1512229254 e:\bilal's books3\oop\game\cuphead\pausemenu.h
+	<SDL.h>
+	"LTexture.h"
+	<iostream>
+	"button.h"
+
+1512229256 source:e:\bilal's books3\oop\game\cuphead\mainmenu.cpp
+	"mainmenu.h"
+
+1512317891 source:e:\bilal's books3\oop\game\cuphead\minion.cpp
+	"Minion.h"
+	<cstdlib>
+	<iostream>
+	<conio.h>
+	<windows.h>
+
+1512229258 source:e:\bilal's books3\oop\game\cuphead\pausemenu.cpp
+	"Pausemenu.h"
+
+1512320503 source:e:\bilal's books3\oop\game\cuphead\platform.cpp
+	"Platform.h"
+
+1512229250 source:e:\bilal's books3\oop\game\cuphead\splashscreen.cpp
+	"Splashscreen.h"
+
+1512325937 source:e:\bilal's books3\oop\game\cuphead\vector2.cpp
+	"Vector2.h"
+
+1512229252 source:e:\bilal's books3\oop\game\cuphead\word.cpp
+	"Word.h"
+
+1512325389 source:e:\bilal's books 3\oop\game\cuphead\boss.cpp
+	"Boss.h"
+	<cstdlib>
+
+1512289755 e:\bilal's books 3\oop\game\cuphead\boss.h
+	"GameObject.h"
+	"Point.h"
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<iostream>
+	"LTexture.h"
+	"GameCharacters.h"
+	<cstdlib>
+	"Bullet.h"
+	"Vector2.h"
+
+1512299477 e:\bilal's books 3\oop\game\cuphead\gameobject.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<iostream>
+	"LTexture.h"
+	"Point.h"
+
+1512229256 e:\bilal's books 3\oop\game\cuphead\ltexture.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<iostream>
+
+1512229252 e:\bilal's books 3\oop\game\cuphead\point.h
+
+1512299861 e:\bilal's books 3\oop\game\cuphead\gamecharacters.h
+	"SDL.h"
+	"LTexture.h"
+	"Point.h"
+	"GameObject.h"
+
+1512300097 e:\bilal's books 3\oop\game\cuphead\bullet.h
+	"GameObject.h"
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<iostream>
+
+1512300097 e:\bilal's books 3\oop\game\cuphead\vector2.h
+	"LTexture.h"
+	<SDL.h>
+	<vector>
+	<iostream>
+	"GameObject.h"
+
+1512307963 source:e:\bilal's books 3\oop\game\cuphead\bullet.cpp
+	"Bullet.h"
+
+1512229312 source:e:\bilal's books 3\oop\game\cuphead\button.cpp
+	"button.h"
+
+1512229312 e:\bilal's books 3\oop\game\cuphead\button.h
+	<SDL.h>
+	<SDL_image.h>
+	"Ltexture.h"
+	"Word.h"
+	<iostream>
+
+1512229250 e:\bilal's books 3\oop\game\cuphead\word.h
+	<string.h>
+	<stdio.h>
+	<iostream>
+	"Character.h"
+
+1512229308 e:\bilal's books 3\oop\game\cuphead\character.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<iostream>
+	"LTexture.h"
+	"Point.h"
+
+1512229312 source:e:\bilal's books 3\oop\game\cuphead\character.cpp
+	"Character.h"
+	<iostream>
+
+1512293105 source:e:\bilal's books 3\oop\game\cuphead\gamecharacters.cpp
+	"GameCharacters.h"
+
+1512296329 source:e:\bilal's books 3\oop\game\cuphead\gameobject.cpp
+	"GameObject.h"
+
+1512229304 source:e:\bilal's books 3\oop\game\cuphead\gamescreen.cpp
+	"Gamescreen.h"
+
+1512229304 e:\bilal's books 3\oop\game\cuphead\gamescreen.h
+	<SDL.h>
+	<iostream>
+	"LTexture.h"
+	"button.h"
+
+1512316469 source:e:\bilal's books 3\oop\game\cuphead\hero.cpp
+	"Hero.h"
+
+1512302874 e:\bilal's books 3\oop\game\cuphead\hero.h
+	"GameObject.h"
+	"Point.h"
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<iostream>
+	"LTexture.h"
+	"GameCharacters.h"
+
+1512323387 source:e:\bilal's books 3\oop\game\cuphead\level.cpp
+	"level.h"
+
+1512320931 e:\bilal's books 3\oop\game\cuphead\level.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	"GameObject.h"
+	"Hero.h"
+	"Platform.h"
+	"Boss.h"
+	"LTexture.h"
+	"Bullet.h"
+	"Minion.h"
+	"Vector2.h"
+
+1512320503 e:\bilal's books 3\oop\game\cuphead\platform.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<iostream>
+	"LTexture.h"
+	"GameObject.h"
+
+1512314008 e:\bilal's books 3\oop\game\cuphead\minion.h
+	"GameObject.h"
+	"Point.h"
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<iostream>
+	"LTexture.h"
+	"GameCharacters.h"
+
+1512229300 source:e:\bilal's books 3\oop\game\cuphead\levelscreen.cpp
+	"levelScreen.h"
+
+1512229300 e:\bilal's books 3\oop\game\cuphead\levelscreen.h
+	<SDL.h>
+	"Word.h"
+	<iostream>
+
+1512229256 source:e:\bilal's books 3\oop\game\cuphead\ltexture.cpp
+	"LTexture.h"
+
+1512358580 source:e:\bilal's books 3\oop\game\cuphead\main.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<string>
+	<iomanip>
+	"LTexture.h"
+	"GameObject.h"
+	"Hero.h"
+	"Platform.h"
+	"Boss.h"
+	"Bullet.h"
+	"level.h"
+	"Minion.h"
+	"Splashscreen.h"
+	"Gamescreen.h"
+	"button.h"
+	<SDL_mixer.h>
+	"Character.h"
+	"Vector2.h"
+	"Splashscreen.h"
+	"Gamescreen.h"
+	"mainmenu.h"
+	"levelScreen.h"
+	"Pausemenu.h"
+	<fstream>
+
+1512229252 e:\bilal's books 3\oop\game\cuphead\splashscreen.h
+	<SDL.h>
+	"LTexture.h"
+	<iostream>
+
+1512229256 e:\bilal's books 3\oop\game\cuphead\mainmenu.h
+	<SDL.h>
+	"LTexture.h"
+	<iostream>
+	"button.h"
+
+1512229254 e:\bilal's books 3\oop\game\cuphead\pausemenu.h
+	<SDL.h>
+	"LTexture.h"
+	<iostream>
+	"button.h"
+
+1512229256 source:e:\bilal's books 3\oop\game\cuphead\mainmenu.cpp
+	"mainmenu.h"
+
+1512317891 source:e:\bilal's books 3\oop\game\cuphead\minion.cpp
+	"Minion.h"
+	<cstdlib>
+	<iostream>
+	<conio.h>
+	<windows.h>
+
+1512229258 source:e:\bilal's books 3\oop\game\cuphead\pausemenu.cpp
+	"Pausemenu.h"
+
+1512320503 source:e:\bilal's books 3\oop\game\cuphead\platform.cpp
+	"Platform.h"
+
+1512229250 source:e:\bilal's books 3\oop\game\cuphead\splashscreen.cpp
+	"Splashscreen.h"
+
+1512325937 source:e:\bilal's books 3\oop\game\cuphead\vector2.cpp
+	"Vector2.h"
+
+1512229252 source:e:\bilal's books 3\oop\game\cuphead\word.cpp
+	"Word.h"
+
